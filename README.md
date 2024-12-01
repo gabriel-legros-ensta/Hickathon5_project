@@ -7,7 +7,7 @@ The Hi!ckathon is an AI and Data Science competition organized by Hi! PARIS, a c
 
 This competition is open to students from Institut Polytechnique de Paris, HEC Paris, and other universities in France and internationally.
 
-<img src="hi-paris.png" alt="Hi!ckathon Logo" width="600" height="auto"/>
+<img src="hi-paris.png" alt="Hi!ckathon Logo" width="400" height="auto"/>
 
 ## **Event Details**
 

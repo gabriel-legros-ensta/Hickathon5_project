@@ -5,7 +5,7 @@ About the Hi!ckathon
 The Hi!ckathon is an AI and Data Science competition organized by Hi! PARIS, a center dedicated to AI and Data Science established by HEC Paris and the Institut Polytechnique de Paris, joined by Inria in 2021.
 
 This competition is open to students from Institut Polytechnique de Paris, HEC Paris, and other universities in France and internationally.
-![Hi!ckathon Logo](images/hickathon_logo.jpg)
+![Hi!ckathon Logo](hi-paris.png)
 Event Details
 Preparation Phase: A 3-week pre-H!ckathon program with Data Science courses, business pitch training, and a Career Fair.
 Final Sprint: November 29th to December 2nd, 2024.

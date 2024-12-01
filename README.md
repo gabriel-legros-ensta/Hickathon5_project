@@ -6,7 +6,7 @@ Welcome to my Hi!ckathon #5 project! This challenge combines the power of AI and
 The Hi!ckathon is an AI and Data Science competition organized by Hi! PARIS, a center dedicated to AI and Data Science established by HEC Paris and the Institut Polytechnique de Paris, joined by Inria in 2021.
 
 This competition is open to students from Institut Polytechnique de Paris, HEC Paris, and other universities in France and internationally.
-<img src="hi-paris.png" alt="Hi!ckathon Logo" width="300" height="auto"/>
+<img src="hi-paris.png" alt="Hi!ckathon Logo" width="600" height="auto"/>
 
 **Event Details**
 
